@@ -13,7 +13,6 @@ There are Total 3 Classes.
  - Green
  - Blue
 <br>
-<br>
 This project can easily be extended to more than 3 classes.
 <br>
 <br>
