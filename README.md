@@ -13,6 +13,9 @@ There are Total 3 Classes.
  - Green
  - Blue
 <br>
+Press Enter to change the class.
+<br>
+<br>
 This project can easily be extended to more than 3 classes.
 <br>
 <br>
